@@ -11,4 +11,3 @@ public interface SoccerNewsApi {
     @GET("news.json")
     Call<List<News>> getNews();
 }
-
