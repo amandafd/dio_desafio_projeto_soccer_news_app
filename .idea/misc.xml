@@ -3,13 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_desafio_projeto_soccer_news_app/app/src/main/res/drawable/ic_share.xml" value="0.1" />
-        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_desafio_projeto_soccer_news_app/app/src/main/res/drawable/ic_soccer.xml" value="0.1" />
-        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_desafio_projeto_soccer_news_app/app/src/main/res/layout/activity_main.xml" value="0.19384057971014493" />
-        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_desafio_projeto_soccer_news_app/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
-        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_desafio_projeto_soccer_news_app/app/src/main/res/layout/fragment_news.xml" value="0.2" />
-        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_desafio_projeto_soccer_news_app/app/src/main/res/layout/news_item.xml" value="0.12" />
-        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_desafio_projeto_soccer_news_app/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_desafio_projeto_soccer_news_app/app/src/main/res/layout/activity_main.xml" value="0.72" />
+        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_desafio_projeto_soccer_news_app/app/src/main/res/layout/fragment_favorites.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_desafio_projeto_soccer_news_app/app/src/main/res/layout/fragment_news.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_desafio_projeto_soccer_news_app/app/src/main/res/layout/news_item.xml" value="0.536" />
+        <entry key="..\:/Users/falvo/AndroidStudioProjects/SoccerNews/app/src/main/res/drawable/ic_favorite.xml" value="0.11" />
+        <entry key="..\:/Users/falvo/AndroidStudioProjects/SoccerNews/app/src/main/res/drawable/ic_soccer.xml" value="0.11" />
+        <entry key="..\:/Users/falvo/AndroidStudioProjects/SoccerNews/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/falvo/AndroidStudioProjects/SoccerNews/app/src/main/res/layout/fragment_dashboard.xml" value="0.2234375" />
+        <entry key="..\:/Users/falvo/AndroidStudioProjects/SoccerNews/app/src/main/res/layout/fragment_favorites.xml" value="0.1" />
+        <entry key="..\:/Users/falvo/AndroidStudioProjects/SoccerNews/app/src/main/res/layout/fragment_home.xml" value="0.2234375" />
+        <entry key="..\:/Users/falvo/AndroidStudioProjects/SoccerNews/app/src/main/res/layout/fragment_news.xml" value="0.2234375" />
+        <entry key="..\:/Users/falvo/AndroidStudioProjects/SoccerNews/app/src/main/res/layout/fragment_notifications.xml" value="0.2234375" />
+        <entry key="..\:/Users/falvo/AndroidStudioProjects/SoccerNews/app/src/main/res/layout/news_item.xml" value="0.4" />
+        <entry key="..\:/Users/falvo/AndroidStudioProjects/SoccerNews/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2234375" />
       </map>
     </option>
   </component>
